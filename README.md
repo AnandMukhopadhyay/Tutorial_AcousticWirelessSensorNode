@@ -1,6 +1,7 @@
 
 Please cite the following paper if you intend to use the dataset:
-"Mukhopadhyay, Anand, Moses Prabhakar Naligala, Divya Lakshmi Duggisetty, Indrajit Chakrabarti, and Mrigank Sharad. "Acoustic scene analysis using analog spiking neural network." Neuromorphic Computing and Engineering (2022)."
+
+_"Mukhopadhyay, Anand, Moses Prabhakar Naligala, Divya Lakshmi Duggisetty, Indrajit Chakrabarti, and Mrigank Sharad. "Acoustic scene analysis using analog spiking neural network." Neuromorphic Computing and Engineering (2022)."_
 
 
 1) Using audio signals
