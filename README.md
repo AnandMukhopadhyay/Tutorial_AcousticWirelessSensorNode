@@ -1,8 +1,13 @@
 
-Please cite the following paper if you intend to use the dataset:
+**Please cite the following paper if you intend to use the dataset:**
 
 _"Mukhopadhyay, Anand, Moses Prabhakar Naligala, Divya Lakshmi Duggisetty, Indrajit Chakrabarti, and Mrigank Sharad. "Acoustic scene analysis using analog spiking neural network." Neuromorphic Computing and Engineering (2022)."_
 
+**DOI**
+https://doi.org/10.1088/2634-4386/ac90e5
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 1) Using audio signals
 
